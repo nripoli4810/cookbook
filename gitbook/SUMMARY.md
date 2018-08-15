@@ -14,6 +14,11 @@
 * [Alfredo](Sauces/Alfredo.md)
 
 ----
+## Marinades
+
+* [Flank Steak Marinade](Marinades/FlankSteak.md)
+
+----
 ## Desserts
 
 * [Macadamia Nut Cranberry Cookies](Desserts/macadamiaNutCookies.md)
