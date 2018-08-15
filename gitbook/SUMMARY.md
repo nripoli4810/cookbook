@@ -9,4 +9,4 @@
 ----
 ## Desserts
 
-* [Macadamia Nut Cranberry Cookies](desserts/macadamiaNutCookies.md)
+* [Macadamia Nut Cranberry Cookies](Desserts/macadamiaNutCookies.md)
