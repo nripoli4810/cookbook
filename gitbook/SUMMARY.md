@@ -7,6 +7,7 @@
 
 * [Chili](Soups/chili.md)
 * [Zuppa Toscana](Soups/zuppaToscana.md)
+* [Mama W's Corn Chowder](Soups/cornChowder.md)
 
 ---
 ## Sauces
