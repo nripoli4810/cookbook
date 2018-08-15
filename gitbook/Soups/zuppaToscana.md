@@ -33,8 +33,8 @@ For a slightly lighter version, use half & half instead of heavy cream.
     * Dice onion and set aside.
     * Wash and slice potatoes in thin (1/8th inch) pieces and set aside.
 
-3. Cook bacon in pot until crips. Remove when done but do not remove grease.
+3. Cook bacon in pot until crisp. Remove from pot when done but do not remove grease.
 4. Add onion and garlic to the pot and cook until onion is translucent.
-5. Add sliced potatoes and broth & cook until tender over medium heat.
+5. Add sliced potatoes and broth to pot and cook until tender over medium heat.
 6. Add sausage and cream and heat.
 7. Add kale or spinach just before serving if you want it to stay crisp, otherwise add with sausage and cream.
