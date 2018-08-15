@@ -4,7 +4,9 @@
 
 ----
 ## Soups
+
 * [Chili](Soups/chili.md)
+* [Zuppa Toscana](Soups/zuppaToscana)
 
 ----
 ## Desserts

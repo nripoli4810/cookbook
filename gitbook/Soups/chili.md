@@ -16,6 +16,7 @@ I've split the ingredients into three sections which can be prepped individually
 | 1 lb | Ground Meat (90% lean?) |
 
 ### Part 2: Beans & Tomatoes
+
 | Amount| Ingredient |
 |-- | --|
 | 1 | 32oz Diced Tomatoes, undrained |
