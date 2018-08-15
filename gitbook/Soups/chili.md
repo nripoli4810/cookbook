@@ -1,37 +1,53 @@
-# Nate's Chili
+# Nate's One Pot Chili
 
-2 Red or Green Peppers
-1 Large Onion
-2-3 T Garlic
-1lb Ground Meat (90% lean?)
+A favorite recipe from back in college. Measurements not exact.
 
-1 32oz Diced Tomatoes
-1 Tomato Paste
-2 Kidney Beans, drained
-1-2 Black Beans, drained
-1 Great Northern Bean, drained
-(Any other beans that I had in that picture?)
+## Ingredients
 
-Spices:
-3-4 T Chili Powder
-2 T Cumin
-1 T Cocoa Powder
-1 T Paprika
-1 T brown sugar
-1/2 tsp Cayenne or Red Pepper Flakes (or more, to taste or audience)
-1 tsp salt (to taste)
-1/2 tsp pepper
+I've split the ingredients into three sections which can be prepped individually before starting cooking.
 
-Extras:
+### Part 1: The Meat
+
+| Amount| Ingredient |
+|-- | --|
+| 2 | Red or Green Peppers, diced |
+| 1 | Large Onion, diced |
+| 2-3 T | Garlic, minced |
+| 1 lb | Ground Meat (90% lean?) |
+
+### Part 2: Beans & Tomatoes
+| Amount| Ingredient |
+|-- | --|
+| 1 | 32oz Diced Tomatoes, undrained |
+| 1 | Tomato Paste |
+| 2 | 16 oz Kidney Beans, drained |
+| 1-2 | 16 oz Black Beans, drained |
+| 1 | 16 oz Great Northern Bean, drained |
+
+### Part 3: Spices
+
+| Amount| Ingredient |
+|-- | --|
+| 3-4 T | Chili Powder |
+| 2 T | Cumin |
+| 1 T | Cocoa Powder |
+| 1 T | Paprika |
+| 1 T | Brown Sugar |
+| 1/2 tsp | Cayenne or Red Pepper Flakes (or more, to taste or audience) |
+| 1 tsp | Salt (to taste) |
+| 1/2 tsp | Pepper |
+
+Every Day Extras:
 - Corn!
 
-Directions:
+## Directions
+
 1. Add ground meat to large stock pot and begin browning (enameled cast-iron is a good choice).
 2. While meat is browning:
-- Dice onion and peppers
-- Drain beans and set aside
-- Mix spices together in small bowl
-3. Add garlic, peppers, and onions to meat about halfway through browning process
+    * Dice onion and peppers
+    * Drain beans and set aside
+    * Mix spices together in small bowl
+3. Add garlic, peppers, and onions to meat about halfway through browning process.
 4. When the meat is browned and the onions soft, add the un-drained diced tomatoes and tomato paste to the pot and stir them in.
 5. Add half of the beans to the pot and stir in half of the spices.
 6. Add the rest of the beans, spices, and extras to the pot and heat over medium heat, until warm.
