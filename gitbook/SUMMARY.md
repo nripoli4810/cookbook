@@ -18,6 +18,7 @@
 ## Marinades
 
 * [Flank Steak Marinade](Marinades/FlankSteak.md)
+* [Justin's Steak Rub](Marinades/JustinsSteakRub.md)
 
 ----
 ## Desserts
