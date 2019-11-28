@@ -9,7 +9,7 @@
 * [Zuppa Toscana](Soups/zuppaToscana.md)
 * [Mama W's Corn Chowder](Soups/cornChowder.md)
 
----
+----
 ## Sauces
 
 * [Alfredo](Sauces/Alfredo.md)
@@ -26,3 +26,4 @@
 
 * [Macadamia Nut Cranberry Cookies](Desserts/macadamiaNutCookies.md)
 * [Morning Glory Muffins](Desserts/morningGloryMuffins.md)
+* [Pineapple Bake](Desserts/pineappleBake.md)
