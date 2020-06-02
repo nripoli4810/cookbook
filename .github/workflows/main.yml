@@ -22,7 +22,7 @@ jobs:
 #      run: npm install
       
     - name: install gitbook plugins
-      run: gitbook install ./gitbook
+      run: npx gitbook install ./gitbook
     
     - name: remove previous docs
       run: 
@@ -30,7 +30,7 @@ jobs:
         mkdir docs
 
     - name: generate storybook
-      run: gitbook build ./gitbook ./docs
+      run: npx gitbook build ./gitbook ./docs
     
     - name: commit changes
       uses: EndBug/add-and-commit@v4
