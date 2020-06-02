@@ -1,0 +1,43 @@
+name: CI
+
+on:
+  push:
+    branches: [ master, task/add-workflow-for-auto-build ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12.x
+      
+    - name: install dependencies
+      run: npm install
+      
+    - name: install gitbook plugins
+      run: npx gitbook install ./gitbook
+    
+    - name: remove previous docs
+      run: 
+        rm -rf docs
+        mkdir docs
+
+    - name: generate storybook
+      run: npx gitbook build ./gitbook ./docs
+    
+    - name: commit changes
+      uses: EndBug/add-and-commit@v4
+      with:
+        author_name: github_workflow
+        author_email: me@githubworkflow.com
+        message: "Update documentation for static html"
+        add: "docs/*"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
