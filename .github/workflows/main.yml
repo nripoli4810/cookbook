@@ -18,8 +18,8 @@ jobs:
       with:
         node-version: 12.x
       
-#    - name: install dependencies
-#      run: npm install
+    - name: install dependencies
+      run: npm install
       
     - name: install gitbook plugins
       run: npx gitbook install ./gitbook
