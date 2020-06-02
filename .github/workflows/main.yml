@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master, task/add-workflow-for-auto-build ]
 
 jobs:
   build:
